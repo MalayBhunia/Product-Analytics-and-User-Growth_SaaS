@@ -2,8 +2,6 @@
 
 **End-to-end product and business analytics project using Python, PostgreSQL, and Power BI**
 
-![Project status](https://img.shields.io/badge/Status-Completed-16803c) ![Python](https://img.shields.io/badge/Python-EDA-3776AB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811)
-
 > **Portfolio project:** Analysis of a **synthetic** SaaS dataset covering **January 2022–August 2026**, with **100,000 users** and activity across acquisition, engagement, subscriptions, revenue, marketing, and customer support. Figures represent simulated business data, not the performance of a real company.
 
 **[View Live Dashboard](SaaS_Analytics_Dashboards.pbit)** · **[View Portfolio](https://malaybhunia-ds.netlify.app/)** · **[Explore SQL Insights](Business_Insights.md)**
